@@ -24,7 +24,7 @@ A full-stack e-commerce website inspired by Amazon. Built using **React**, **Nod
 
 ---
 
-## 📂 Folder Structure
+
 
 ## 📂 Folder Structure
 
