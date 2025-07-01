@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/amazon-clone/static/css/main.77d3903b.css",
-    "main.js": "/amazon-clone/static/js/main.6b3ae6c2.js",
+    "main.js": "/amazon-clone/static/js/main.bde59db8.js",
     "static/js/453.a3c1d153.chunk.js": "/amazon-clone/static/js/453.a3c1d153.chunk.js",
     "static/media/estee.jpg": "/amazon-clone/static/media/estee.bc669276028cf20b21a4.jpg",
     "static/media/philips.jpg": "/amazon-clone/static/media/philips.4fc64fae2b447e838464.jpg",
     "static/media/ear.jpg": "/amazon-clone/static/media/ear.5c0412563d35f9bfc2ae.jpg",
     "index.html": "/amazon-clone/index.html",
     "main.77d3903b.css.map": "/amazon-clone/static/css/main.77d3903b.css.map",
-    "main.6b3ae6c2.js.map": "/amazon-clone/static/js/main.6b3ae6c2.js.map",
+    "main.bde59db8.js.map": "/amazon-clone/static/js/main.bde59db8.js.map",
     "453.a3c1d153.chunk.js.map": "/amazon-clone/static/js/453.a3c1d153.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77d3903b.css",
-    "static/js/main.6b3ae6c2.js"
+    "static/js/main.bde59db8.js"
   ]
 }
